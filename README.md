@@ -26,7 +26,7 @@ the snapshots of how the UI components looks once the python files are run in te
 
 ## Steps to run the project
 Open terminal and enter(make sure git is downloaded in your local system, if not check out this link - https://git-scm.com/downloads)
-#### Clone the repository - git clone 
+#### Clone the repository - git clone https://github.com/Rishita-Garg/ARP-INTEL-PS12-.git
 Navigate to the repository and ensure python and pip are installed by running (if not download from https://www.python.org/downloads/)
 #### python --version
 #### pip --version
