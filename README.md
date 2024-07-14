@@ -9,7 +9,7 @@ wide_runs, bye_runs, legbye_runs, noball_runs, penalty_runs, batsman_runs, extra
 ## Jupyter Notebook and UI Components
 
 Alongside the dataset we have the Jupyter notebook named PS12, all the knowledge that we could analyse from these datasets are shown, we have generated meaningful statistic information
-that helps one to understand and analyse the dataset better - upto 20 code snippets are available in the file. 
+that helps one to understand and analyse the dataset better - upto 20 code snippets are available in the Jupter Notebook. 
 Adding to that our two inline models with UI integration, with the help of libraries that allow inline GUI for Jupyter notebook.
 (Although it is imported in the notebook, you may import the following for errorfree model implementation)
 #### !pip install ipywidgets
@@ -21,8 +21,8 @@ Pattern Identification UI, Player of the match UI, Win Probability UI.
 
 ## Report and Documentation
 The report is made according to the submission template  with the info about the steps taken by us to come 
-up with this final project. Its in pdf format and also contains all the code snippets from jupyter notebook and 
-the snapshots of how the UI components looks once the python files are run in terminal. The intent of each code snippet is in markdown of the jupyter notebook. 
+up with this final project. Its in pdf format and also contains some of the snapshots of how the visualisation is done in the notebook solution,
+To check out how the UI components looks, one needs to run the python files in terminal. The intent of each code snippet is in markdown of the jupyter notebook. 
 
 ## Steps to run the project
 Open terminal and enter(make sure git is downloaded in your local system, if not check out this link - https://git-scm.com/downloads)
